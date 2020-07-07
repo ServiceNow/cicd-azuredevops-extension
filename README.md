@@ -1,2 +1,2 @@
-# cicd-external-integrations
-Public repository for documentation and code samples for CI/CD external integrations on marketplaces. 
+# cicd-azuredevops-extension
+Public repository for documentation and code samples for ServiceNow CI/CD Extension on Azure Marketplace.
